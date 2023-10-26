@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 48px">Hi 👋, I'm Igor Pecherskih</p>
+<p align="center" style="font-size: 48 px">Hi 👋, I'm Igor Pecherskih</p>
 <p align="center">Web-developer on HTML, CSS</p>
 
 - 📫 How to reach me **igor@bizneskomanda.com**
