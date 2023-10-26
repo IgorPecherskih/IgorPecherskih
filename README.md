@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 48 px">Hi 👋, I'm Igor Pecherskih</p>
-<p align="center">Web-developer on HTML, CSS</p>
+<h1 align="center"> Hi 👋, I'm Igor Pecherskih</h1>
+<h3 align="center">Web-developer on HTML, CSS</h3>
 
 - 📫 How to reach me **igor@bizneskomanda.com**
 
