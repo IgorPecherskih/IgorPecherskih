@@ -16,6 +16,3 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Tsprnay/icons/b0ae39f0221824c30e8a216c9c9324f2d4dbb52e/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Tsprnay/icons/b0ae39f0221824c30e8a216c9c9324f2d4dbb52e/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a>  
 <a href="https://filezilla-project.org"> <img src="https://raw.githubusercontent.com/Tsprnay/icons/b0ae39f0221824c30e8a216c9c9324f2d4dbb52e/icons/FileZilla_logo.svg" alt="filezilla" width="40" height="40"/> </a></p>
-
-
-<img src="https://raw.githubusercontent.com/Tsprnay/Tsprnay/output/github-contribution-grid-snake-dark.svg" alt="figma" />
